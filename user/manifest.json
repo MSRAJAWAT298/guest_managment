@@ -1,0 +1,15 @@
+{
+  "short_name": "Gift Managment",
+  "name": "Gift Managment",
+  "icons": [
+    {
+      "src": "img.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "http://localhost/event_managment/user/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "theme_color": "#3367D6"
+}
